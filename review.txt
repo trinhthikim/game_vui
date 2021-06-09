@@ -1,0 +1,7 @@
+chỗ này
+
+//Tao bo ket qua ngau nhien
+
+Em nên dùng while hoặc do...while cho việc sinh bộ kết quả ngẫu nhiên với tư tưởng là cứ random cho tới khi random ra kết quả sai khác kq đúng và số kết quả sinh ra được là 3
+
+Còn lại thì good rồi, đã kết hợp cả mysql lẫn ajax vào bài => good
